@@ -4091,8 +4091,8 @@ td:last-child {
 /* on hover: swap preview image to thiru_img1.jpg via overlay */
 .entry__thumb {
   position: relative;
-  width: 100%;
-  height: 400px; /* adjust height as you like */
+  width: 90%;
+  height:500px; /* adjust height as you like */
   border-radius: 10px;
   overflow: hidden;
   background-image: var(--img1);
